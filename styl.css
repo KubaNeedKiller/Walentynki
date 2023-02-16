@@ -1,0 +1,26 @@
+body{
+    background-image: url("tlo.jpg");
+    background-color: #cccccc;
+}
+footer{
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    color: rgb(244, 0, 110);
+    text-shadow:1px 1px black;
+}
+header{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+#srodek{
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+h1{
+    color: rgb(244, 0, 110);
+    text-shadow:1px 1px black;
+    font-size: 300%;
+}
