@@ -1,6 +1,7 @@
 body{
     background-image: url("tlo.jpg");
-    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 footer{
     height: 50px;
