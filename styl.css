@@ -9,6 +9,7 @@ footer{
     font-size: 20px;
     color: rgb(244, 0, 110);
     text-shadow:1px 1px black;
+    text-align: center;
 }
 header{
     height: 200px;
